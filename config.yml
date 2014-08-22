@@ -1,0 +1,4 @@
+scala_grep:
+  mailer_app:
+    path: "sample.txt"
+    pattern: "/mailer/"
